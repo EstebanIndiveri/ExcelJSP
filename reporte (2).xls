@@ -1,0 +1,38 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Reporte de Excel</title>
+    </head>
+    <body>
+        <h1>Reporte de Excel</h1>
+        <br>
+        <table border="1">
+            <tr>
+                <th>Curso</th>
+                <th>Descripción</th>
+                <th>Fecha Inicio</th>
+            </tr>
+            <tr>
+                <td>1.Fundamentos de Java</td>
+                <td>Aprenderemos la sintaxis básica de Java</td>
+                <td>07-03-2020</td>
+            </tr>
+            <tr>
+                <td>2.Programación en Java</td>
+                <td>Pondremos en práctica conceptos de la programación Orientada a Objetos</td>
+                <td>07-03-2020</td>
+            </tr>
+            <tr>
+                <td>3.Programación web</td>
+                <td>Realizaremos una introducción a la programación web</td>
+                <td>07-03-2020</td>
+            </tr>
+
+        </table>
+    </body>
+</html>
